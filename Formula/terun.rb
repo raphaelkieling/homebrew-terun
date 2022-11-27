@@ -6,7 +6,7 @@ class Terun < Formula
     sha256 "7fe45dae52e7f366b3014d77605f9b6fd1294b01ff73acdc0c18d8072e74f618"
   
     def install
-      bin.install "terun"
+        bin.install "terun-go"
     end
   end
   
