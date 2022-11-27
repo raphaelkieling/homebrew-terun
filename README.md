@@ -9,7 +9,7 @@ You need to have [Homebrew](https://brew.sh/) installed on your system.
 Install the Terun with
 
 ```bash
-brew install ??
+brew install raphaelkieling/terun/terun
 ```
 
 ## Update
