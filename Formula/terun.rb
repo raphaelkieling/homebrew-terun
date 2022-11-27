@@ -8,9 +8,5 @@ class Terun < Formula
     def install
       bin.install "terun"
     end
-  
-    test do
-      system bin/"terun", "version"
-    end
   end
   
